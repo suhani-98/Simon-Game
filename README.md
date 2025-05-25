@@ -27,6 +27,11 @@ Simon Game is a simple memory game where the player must repeat a sequence of co
 - Open the `index.html` file in your web browser.
 - No additional setup or installations required.
 
+## Screenshoot
+
+![image](https://github.com/user-attachments/assets/1ed19dce-8080-43b4-b2ae-d0159fbaf6f6)
+
+
 ## License
 This project is open-source and free to use.
 
